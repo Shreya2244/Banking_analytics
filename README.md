@@ -197,6 +197,6 @@ The `diagrams/` folder has two views of the schema:
 
 ## Author
 
-**Tejas Salunkhe**
-Aspiring Data Engineer
-[LinkedIn](https://www.linkedin.com/in/tejas-salunkhe05) · [GitHub](https://github.com/TejasML)
+**Shreya S S**
+Aspiring Data Analyst
+[LinkedIn](www.linkedin.com/in/shreya-ss-) · [GitHub](https://github.com/Shreya2244)
